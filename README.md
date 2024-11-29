@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-¡Hola! Soy ** Junonia Wren, una desarrolladora apasionada por la creación de videojuegos y escenarios de Realidad Virtual.
+¡Hola! Soy **Junonia Wren** , una desarrolladora apasionada por la creación de videojuegos y escenarios de Realidad Virtual.
 
 ### 🚀 ¿Qué hago?
 
@@ -14,7 +14,7 @@
 
 ### 🔧 Herramientas y Tecnologías
 
-- **Lenguajes de programación**: C#, JavaScript, SQL
+- **Lenguajes de programación**: C#, JavaScript.
 - **Motores de juego**: Unity
 - **Herramientas**: Git, Visual Studio Code, Unity Hub, Adobe.
 
